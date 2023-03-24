@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "4622c76134cac0c280f5878be3d645005ab5a1fa"
     },
+    "com.leopotam.ecslite.extendedsystems": {
+      "version": "https://github.com/Leopotam/ecslite-extendedsystems.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "007a5af4aaa1c4993523232f306a5f02e1de7c0f"
+    },
     "com.unity.2d.animation": {
       "version": "7.0.7",
       "depth": 1,
@@ -132,7 +139,7 @@
       }
     },
     "com.unity.ide.rider": {
-      "version": "3.0.15",
+      "version": "3.0.18",
       "depth": 0,
       "source": "registry",
       "dependencies": {

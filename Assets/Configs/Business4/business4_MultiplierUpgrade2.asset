@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81bdeaee6e2541eaa3dcf1db6644394c, type: 3}
+  m_Name: business4_MultiplierUpgrade2
+  m_EditorClassIdentifier: 
+  id: business4_MultiplierUpgrade2
+  price: 50000
+  additionalMultiplier: 2
